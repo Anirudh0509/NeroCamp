@@ -1,0 +1,1 @@
+This version of app contains- Fuzzy Search, Captcha Authentication, Pagination. 

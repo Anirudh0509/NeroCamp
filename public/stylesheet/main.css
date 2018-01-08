@@ -1,0 +1,25 @@
+.thumbnail img{
+    width:100%;
+}
+.thumbnail{
+    padding:0;
+}
+.thumbnail .caption-full{
+    padding:10px;
+}
+.delete-form{
+    display:inline;
+}
+/* Login Form and Registration Form */
+.login-header{
+    text-align: center;
+}
+.form-center{
+    width: 30%;
+    margin: 20px auto;
+}
+/* Maps */
+#map{
+    height:400px;
+    width:100%;
+}
